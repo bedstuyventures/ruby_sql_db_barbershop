@@ -1,0 +1,33 @@
+body {
+  font-weight: bold;
+  color: #ffffff;
+  background-image: url("barber.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#stylist_name {
+  color: #000000;
+  font-weight: normal;
+}
+
+#name {
+  color: #000000;
+  font-weight: normal;
+}
+
+ul {
+  color: #70CDCD;
+}
+
+a:link {
+  color: #70CDCD;
+}
+
+a:visited {
+  color: #70CDCD;
+}
+
+button {
+  background-color: black;
+}
